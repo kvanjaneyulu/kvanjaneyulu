@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there! 👋 I'm Kudumula Veeranjaneyulu Reddy (Nani)  
+🎯 **Software Engineer | MERN Stack Developer**  
+🛠️ Specializing in React.js and API Development  
+🌱 Currently exploring real-time applications with React Native  
 
-<!--
-**kvanjaneyulu/kvanjaneyulu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Technologies & Tools  
+- Programming: JavaScript, React.js, Node.js  
+- Tools: Git, GitHub, VS Code  
+- Others: API Integration, MERN Stack Development  
 
-Here are some ideas to get you started:
+## 📂 Featured Projects  
+- **CCBP Timeline**: [GitHub Repo Link](#)  
+  - Description of the project...  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect with Me  
+- [LinkedIn](#)  
+- [Portfolio](#)  
